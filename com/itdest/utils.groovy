@@ -1,5 +1,5 @@
 package com.itdest
 
-def PrintMsg(String value) {
+def PrintMsg(value) {
     println(value) 
 }
